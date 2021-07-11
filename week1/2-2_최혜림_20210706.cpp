@@ -1,4 +1,4 @@
-// 20210706
+// 2021 07 06
 #include <iostream>
 #include <string>
 using namespace std;

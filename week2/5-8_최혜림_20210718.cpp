@@ -13,7 +13,7 @@ int solution(int left, int right) {
         }
         if (count%2==0) answer += i;
         else answer -= i;
-        cout << count << "  "  << answer << endl;
+        cout << count << "  " << answer << endl;
     }
     return answer;
 }

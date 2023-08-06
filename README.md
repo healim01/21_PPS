@@ -22,9 +22,9 @@
 <h4>Front-End</h4>
 <div>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-	<img src="https://img.shields.io/badge/React-E34F26?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Axios-1572B6?style=flat&logo=axios&logoColor=white&color=5A29E4" />
-  <img src="https://img.shields.io/badge/Mui-1572B6?style=flat&logo=mui&logoColor=white&color=007FFF" />
+	<img src="https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" />
+    <img src="https://img.shields.io/badge/Axios-1572B6?style=for-the-badge&logo=axios&logoColor=white&color=5A29E4" />
+    <img src="https://img.shields.io/badge/Mui-1572B6?style=for-the-badge&logo=mui&logoColor=white&color=007FFF" />
 </div>
 
 <h4>Back-End</h4>

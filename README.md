@@ -1,8 +1,9 @@
-# 🦁 멋쟁이 사자처럼 11기 피서해커톤 2023 ( Team : Fundiggin; 펀디깅 )
 
 <p align="center">
   <img src="https://github.com/LikeLionHGU/Front-chihyang-mai/assets/74346290/0a8caedd-f1b7-4bb4-be33-9021352be54c" alt="logo">
 </p>
+
+# 🦁 멋쟁이 사자처럼 11기 피서해커톤 2023 ( Team : Fundiggin; 펀디깅 )
 
 **[일시]** 23. 7월 3일 ~ 7월 14일  
 **[주제]** 디깅모멘텀(Throught Enjoyment：Digging Momentum)  

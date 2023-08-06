@@ -41,9 +41,7 @@
 <hr/><br />
 
 
-|![image](https://github.com/healim01/21_PPS/assets/74346290/71c80ea4-5c51-4eb1-b654-ffff5b6dcb2d)
-|![image](https://github.com/healim01/21_PPS/assets/74346290/71c80ea4-5c51-4eb1-b654-ffff5b6dcb2d)
-|<img src="https://github.com/healim01" width="80">|<img src="https://github.com/sumina729" width="80">|<img src="https://github.com/proreg" width="80">|
+|<img src="https://github.com/healim01" width="80">|<img src="https://github.com/healim01" width="80">|<img src="https://github.com/healim01" width="80">|<img src="https://github.com/sumina729" width="80">|<img src="https://github.com/proreg" width="80">|
 |:---:|:---:|:---:|:---:|:---:|
 |[](https://github.com/0lrlokr)|[](https://github.com/Kimminsu16)|[](https://github.com/healim01)|[](https://github.com/sumina729)|[](https://github.com/prorege)|
 |이호리|박정민|최혜림|이수민|양세혁

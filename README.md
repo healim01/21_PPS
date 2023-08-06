@@ -1,9 +1,8 @@
+# 🦁 멋쟁이 사자처럼 11기 피서해커톤 2023 ( Team : Fundiggin; 펀디깅 )
 
 <p align="center">
   <img src="https://github.com/LikeLionHGU/Front-chihyang-mai/assets/74346290/0a8caedd-f1b7-4bb4-be33-9021352be54c" alt="logo">
 </p>
-
-# 🦁 멋쟁이 사자처럼 11기 피서해커톤 2023 ( Team : Fundiggin; 펀디깅 )
 
 **[일시]** 23. 7월 3일 ~ 7월 14일  
 **[주제]** 디깅모멘텀(Throught Enjoyment：Digging Momentum)  
@@ -16,20 +15,6 @@
 </p>
 
 <br/>
-
-<br/>
-<h3>👨‍👩‍👧 팀원 소개</h3>
-<hr/><br />
-
-
-|<img width="80" alt="스크린샷 2023-07-15 오후 11 54 09" src="https://github.com/chihyang-mai/Front-chihyang-mai/assets/49269218/0d28bbc1-0aff-497d-a7e2-c837681f5f93">|<img width="80" alt="스크린샷 2023-07-15 오후 11 54 22" src="https://github.com/chihyang-mai/Front-chihyang-mai/assets/49269218/a2b5ba4d-a70d-4947-ab4f-1bbf304ccb13">|<img src="https://github.com/ohinhyuk.png" width="80">|<img src="https://github.com/22100584.png" width="80">|<img src="https://github.com/EunSeo35.png" width="80">|<img src="https://github.com/Dobbinci.png" width="80">|<img src="https://github.com/blackcowman.png" width="80">|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[](https://github.com/0lrlokr)|[](https://github.com/Kimminsu16)|[](https://github.com/healim01)|[](https://github.com/sumina729)|[](https://github.com/prorege)|
-|기획자|디자이너|프론트엔드|백엔드|백엔드
-
-
-<br/>
-
 
 <h3>🔧 사용 스택</h3>
 <hr/><br />
@@ -50,3 +35,19 @@
 </div>
 
 
+  
+<br/>
+<h3>👨‍👩‍👧 팀원 소개</h3>
+<hr/><br />
+
+
+|![image](https://github.com/healim01/21_PPS/assets/74346290/71c80ea4-5c51-4eb1-b654-ffff5b6dcb2d)
+|![image](https://github.com/healim01/21_PPS/assets/74346290/71c80ea4-5c51-4eb1-b654-ffff5b6dcb2d)
+|<img src="https://github.com/healim01" width="80">|<img src="https://github.com/sumina729" width="80">|<img src="https://github.com/proreg" width="80">|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[](https://github.com/0lrlokr)|[](https://github.com/Kimminsu16)|[](https://github.com/healim01)|[](https://github.com/sumina729)|[](https://github.com/prorege)|
+|이호리|박정민|최혜림|이수민|양세혁
+|기획자|디자이너|프론트엔드|백엔드|백엔드
+
+
+<br/>

@@ -17,6 +17,20 @@
 
 <br/>
 
+<br/>
+<h3>👨‍👩‍👧 팀원 소개</h3>
+<hr/><br />
+
+
+|<img width="80" alt="스크린샷 2023-07-15 오후 11 54 09" src="https://github.com/chihyang-mai/Front-chihyang-mai/assets/49269218/0d28bbc1-0aff-497d-a7e2-c837681f5f93">|<img width="80" alt="스크린샷 2023-07-15 오후 11 54 22" src="https://github.com/chihyang-mai/Front-chihyang-mai/assets/49269218/a2b5ba4d-a70d-4947-ab4f-1bbf304ccb13">|<img src="https://github.com/ohinhyuk.png" width="80">|<img src="https://github.com/22100584.png" width="80">|<img src="https://github.com/EunSeo35.png" width="80">|<img src="https://github.com/Dobbinci.png" width="80">|<img src="https://github.com/blackcowman.png" width="80">|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[](https://github.com/0lrlokr)|[](https://github.com/Kimminsu16)|[](https://github.com/healim01)|[](https://github.com/sumina729)|[](https://github.com/prorege)|
+|기획자|디자이너|프론트엔드|백엔드|백엔드
+
+
+<br/>
+
+
 <h3>🔧 사용 스택</h3>
 <hr/><br />
 
@@ -36,16 +50,3 @@
 </div>
 
 
-  
-<br/>
-<h3>👨‍👩‍👧 팀원 소개</h3>
-<hr/><br />
-
-
-|<img width="80" alt="스크린샷 2023-07-15 오후 11 54 09" src="https://github.com/chihyang-mai/Front-chihyang-mai/assets/49269218/0d28bbc1-0aff-497d-a7e2-c837681f5f93">|<img width="80" alt="스크린샷 2023-07-15 오후 11 54 22" src="https://github.com/chihyang-mai/Front-chihyang-mai/assets/49269218/a2b5ba4d-a70d-4947-ab4f-1bbf304ccb13">|<img src="https://github.com/ohinhyuk.png" width="80">|<img src="https://github.com/22100584.png" width="80">|<img src="https://github.com/EunSeo35.png" width="80">|<img src="https://github.com/Dobbinci.png" width="80">|<img src="https://github.com/blackcowman.png" width="80">|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[](https://github.com/0lrlokr)|[](https://github.com/Kimminsu16)|[](https://github.com/healim01)|[](https://github.com/sumina729)|[](https://github.com/prorege)|
-|기획자|디자이너|프론트엔드|백엔드|백엔드
-
-
-<br/>

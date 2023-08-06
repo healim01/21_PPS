@@ -41,7 +41,8 @@
 <hr/><br />
 
 
-|<img src="https://github.com/healim01" width="80"> |<img src="https://github.com/healim01" width="80">|<img src="https://github.com/healim01" width="80">|<img src="https://github.com/sumina729" width="80">|<img src="https://github.com/proreg" width="80">||:---:|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/sooyeonJeong0315.png" width="80">|<img src="https://github.com/ChaewonLee21.png" width="80">|<img src="https://github.com/healim01.png" width="80">|<img src="https://github.com/sumina729.png" width="80">|<img src="https://github.com/proreg.png" width="80">|
+|:---:|:---:|:---:|:---:|:---:|
 |[](https://github.com/0lrlokr)|[](https://github.com/Kimminsu16)|[](https://github.com/healim01)|[](https://github.com/sumina729)|[](https://github.com/prorege)|
 |이호리|박정민|최혜림|이수민|양세혁
 |기획자|디자이너|프론트엔드|백엔드|백엔드
